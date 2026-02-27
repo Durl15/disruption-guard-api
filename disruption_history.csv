@@ -1,0 +1,5 @@
+timestamp,request_id,material,origin,risk_score,risk_level,delay_days
+2026-02-26 23:05:12,477b3458-c45c-4f8f-944c-66c89c49499f,Steel,Newark,0.82,high,14
+2026-02-26 23:09:33,1e6a754c-fe31-4324-ae62-ecee30624db8,Historic Timber,Oregon,0.15,low,0
+2026-02-26 23:09:33,d598c724-f45c-406a-a8bc-fd0745a420fc,Specialized Glass,Syracuse,0.15,low,0
+2026-02-26 23:09:33,14e7ceaf-3bea-4bad-aa71-3fe12385a480,HVAC Units,Newark,0.82,high,14
